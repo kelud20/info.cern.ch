@@ -1,0 +1,687 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 569F-F222
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch
+
+05/21/2021  05:36 PM    <DIR>          .
+05/21/2021  05:36 PM    <DIR>          ..
+05/21/2021  05:36 PM                 0 FileList.txt
+05/21/2021  04:55 PM    <DIR>          hypertext
+05/21/2021  04:55 PM    <DIR>          usr
+05/21/2021  04:55 PM    <DIR>          WWW
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          Conferences
+05/21/2021  04:55 PM                 0 Copyright.html
+05/21/2021  04:55 PM    <DIR>          DataSources
+05/21/2021  04:55 PM             1,414 history.html
+05/21/2021  04:55 PM    <DIR>          MIME
+05/21/2021  04:55 PM    <DIR>          Products
+05/21/2021  04:55 PM             9,067 README.html
+05/21/2021  04:55 PM    <DIR>          Standards
+05/21/2021  04:55 PM                 0 TBL_Disclaimer.html
+05/21/2021  04:55 PM    <DIR>          WWW
+               4 File(s)         10,481 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          AIHEP92
+05/21/2021  04:55 PM    <DIR>          CSCW92
+05/21/2021  04:55 PM    <DIR>          ECHT90
+05/21/2021  04:55 PM    <DIR>          ECHT92
+05/21/2021  04:55 PM    <DIR>          HT91
+05/21/2021  04:55 PM    <DIR>          IETF92
+05/21/2021  04:55 PM    <DIR>          IFIP_Prot_Arch_App
+05/21/2021  04:55 PM    <DIR>          INET93
+05/21/2021  04:55 PM    <DIR>          JENC92
+05/21/2021  04:55 PM    <DIR>          NSC92
+05/21/2021  04:55 PM             3,032 Overview.html
+               1 File(s)          3,032 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\AIHEP92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 www-for-hep.ps
+05/21/2021  04:55 PM                 0 www-for-hep.wn
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\CSCW92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 CallForPapers.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\ECHT90
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Introduction.html
+05/21/2021  04:55 PM                 0 People.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\ECHT92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 CallForParticipation.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\HT91
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\IETF92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 IETF-9203.html
+05/21/2021  04:55 PM                 0 udi2.txt
+05/21/2021  04:55 PM                 0 udi2.wn
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\IFIP_Prot_Arch_App
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Announcement.txt
+05/21/2021  04:55 PM                 0 CallForPapers.txt
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\INET93
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 CFP.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\JENC92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Programme.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Conferences\NSC92
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 CallForParticpationhtml
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\DataSources
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 ByAccess.html
+05/21/2021  04:55 PM    <DIR>          bySubject
+05/21/2021  04:55 PM                 0 Overview.html
+05/21/2021  04:55 PM             1,069 Top.html
+05/21/2021  04:55 PM    <DIR>          WWW
+               3 File(s)          1,069 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\DataSources\bySubject
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM             4,872 Overview.html
+               1 File(s)          4,872 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\DataSources\WWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Servers.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\MIME
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          AMIX
+05/21/2021  04:55 PM    <DIR>          Doorway
+05/21/2021  04:55 PM    <DIR>          DynaText
+05/21/2021  04:55 PM                 0 EHTS.html
+05/21/2021  04:55 PM    <DIR>          Engelbart
+05/21/2021  04:55 PM    <DIR>          Gopher
+05/21/2021  04:55 PM    <DIR>          Guide
+05/21/2021  04:55 PM    <DIR>          Hyperbole
+05/21/2021  04:55 PM    <DIR>          Interes
+05/21/2021  04:55 PM    <DIR>          Intermedia
+05/21/2021  04:55 PM    <DIR>          IRProducts
+05/21/2021  04:55 PM    <DIR>          MediaView
+05/21/2021  04:55 PM    <DIR>          Microcosm
+05/21/2021  04:55 PM            11,083 Overview.html
+05/21/2021  04:55 PM    <DIR>          WAIS
+05/21/2021  04:55 PM    <DIR>          Xanadu
+               2 File(s)         11,083 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\AMIX
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Introduction.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Doorway
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\DynaText
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 EBT.html
+05/21/2021  04:55 PM                 0 Overview.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Engelbart
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Seminar.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Gopher
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Guide
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 OWL.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Hyperbole
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Interes
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Mail.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Intermedia
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Intermedia.html
+05/21/2021  04:55 PM                 0 IRIS.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\IRProducts
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\MediaView
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Mail.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Microcosm
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Microcosm.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\WAIS
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 DiscussionGroup.html
+05/21/2021  04:55 PM                 0 Overview.html
+05/21/2021  04:55 PM                 0 Releases.html
+               3 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Products\Xanadu
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Xanadu.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\Standards
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          Addressing
+05/21/2021  04:55 PM    <DIR>          Administration
+05/21/2021  04:55 PM             5,140 Bibliography.html
+05/21/2021  04:55 PM                 0 bugs.html
+05/21/2021  04:55 PM    <DIR>          Curses
+05/21/2021  04:55 PM    <DIR>          Daemon
+05/21/2021  04:55 PM    <DIR>          DesignIssues
+05/21/2021  04:55 PM    <DIR>          Erwise
+05/21/2021  04:55 PM    <DIR>          FAQ
+05/21/2021  04:55 PM    <DIR>          FIND
+05/21/2021  04:55 PM    <DIR>          FineWWW
+05/21/2021  04:55 PM    <DIR>          Frame
+05/21/2021  04:55 PM             1,364 Help.html
+05/21/2021  04:55 PM             2,253 helping.html
+05/21/2021  04:55 PM             1,018 History.html
+05/21/2021  04:55 PM                 0 JANETAccess.html
+05/21/2021  04:55 PM    <DIR>          Library
+05/21/2021  04:55 PM    <DIR>          LineMode
+05/21/2021  04:55 PM    <DIR>          Macintosh
+05/21/2021  04:55 PM    <DIR>          MailRobot
+05/21/2021  04:55 PM    <DIR>          MarkUp
+05/21/2021  04:55 PM    <DIR>          MidasWWW
+05/21/2021  04:55 PM    <DIR>          News
+05/21/2021  04:55 PM                 0 Newsgroups.html
+05/21/2021  04:55 PM    <DIR>          NeXT
+05/21/2021  04:55 PM                 0 Notation.html
+05/21/2021  04:55 PM                 0 People.html
+05/21/2021  04:55 PM             3,427 Policy.html
+05/21/2021  04:55 PM    <DIR>          Project
+05/21/2021  04:55 PM    <DIR>          Protocols
+05/21/2021  04:55 PM    <DIR>          Provider
+05/21/2021  04:55 PM                 0 RelatedProducts.html
+05/21/2021  04:55 PM             3,574 Status.html
+05/21/2021  04:55 PM             5,459 Summary.html
+05/21/2021  04:55 PM    <DIR>          Talks
+05/21/2021  04:55 PM             2,462 Technical.html
+05/21/2021  04:55 PM             3,874 Terms.html
+05/21/2021  04:55 PM             3,123 TheProject.html
+05/21/2021  04:55 PM                 0 TheW3Book.html
+05/21/2021  04:55 PM    <DIR>          TkWWW
+05/21/2021  04:55 PM    <DIR>          Tools
+05/21/2021  04:55 PM    <DIR>          Viola
+05/21/2021  04:55 PM    <DIR>          VMClient
+05/21/2021  04:55 PM             1,888 WhatIs.html
+05/21/2021  04:55 PM    <DIR>          WorkingNotes
+05/21/2021  04:55 PM             1,536 Xanadu.html
+              19 File(s)         35,118 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Addressing
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Addressing.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Administration
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          Mailing
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Administration\Mailing
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM               399 Overview.html
+               1 File(s)            399 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Curses
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Daemon
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Basic.html
+05/21/2021  04:55 PM                 0 DCLServer.html
+05/21/2021  04:55 PM    <DIR>          Geography
+05/21/2021  04:55 PM    <DIR>          Oracle
+05/21/2021  04:55 PM             4,130 Overview.html
+05/21/2021  04:55 PM                 0 Status.html
+05/21/2021  04:55 PM    <DIR>          System33
+05/21/2021  04:55 PM    <DIR>          User
+05/21/2021  04:55 PM                 0 VMSGateStatus.html
+               5 File(s)          4,130 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Daemon\Geography
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Daemon\Oracle
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Daemon\System33
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Gateway.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Daemon\User
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Guide.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\DesignIssues
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 BuildingBackLinks.html
+05/21/2021  04:55 PM                 0 DosDonts.html
+05/21/2021  04:55 PM                 0 Multiuser.html
+05/21/2021  04:55 PM                 0 Overview.html
+               4 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Erwise
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\FAQ
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Bootstrap.html
+05/21/2021  04:55 PM                 0 KeepingTrack.html
+05/21/2021  04:55 PM             1,448 List.html
+05/21/2021  04:55 PM                 0 NoInternet.html
+05/21/2021  04:55 PM                 0 Server.html
+05/21/2021  04:55 PM                 0 WAISandGopher.html
+               6 File(s)          1,448 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\FIND
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+05/21/2021  04:55 PM                 0 Status.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\FineWWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Frame
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          fminit2.0
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Frame\fminit2.0
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 www_and_frame.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Library
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\LineMode
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Browser.html
+05/21/2021  04:55 PM    <DIR>          Defaults
+05/21/2021  04:55 PM                 0 Status.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\LineMode\Defaults
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM             1,812 Distribution.html
+05/21/2021  04:55 PM                 0 Installation.html
+05/21/2021  04:55 PM                 0 line-mode-guide.txt
+05/21/2021  04:55 PM                 0 QuickGuide.html
+               4 File(s)          1,812 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Macintosh
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\MailRobot
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Bugs.html
+05/21/2021  04:55 PM                 0 Features.html
+05/21/2021  04:55 PM                 0 Help.html
+05/21/2021  04:55 PM                 0 Installation.html
+05/21/2021  04:55 PM             1,179 Overview.html
+05/21/2021  04:55 PM                 0 Status.html
+               6 File(s)          1,179 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\MarkUp
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 MarkUp.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\MidasWWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\News
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM             1,287 9211.html
+               1 File(s)          1,287 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\NeXT
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          Implementation
+05/21/2021  04:55 PM                 0 Installation.html
+05/21/2021  04:55 PM                 0 MakingDocuments.html
+05/21/2021  04:55 PM                 0 Menus.html
+05/21/2021  04:55 PM                 0 Status.html
+05/21/2021  04:55 PM             3,298 WorldWideWeb.html
+               5 File(s)          3,298 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\NeXT\Implementation
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Bugs.html
+05/21/2021  04:55 PM                 0 SourceFiles.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Project
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Coding.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Protocols
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          HTTP
+05/21/2021  04:55 PM                 0 RelevantProtocols.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Protocols\HTTP
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 AsImplemented.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Provider
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Etiquette.html
+05/21/2021  04:55 PM                 0 Overview.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Talks
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM               243 YesWeCan.snd
+               1 File(s)            243 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\TkWWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Tools
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          HTMLGeneration
+05/21/2021  04:55 PM    <DIR>          LogAnalysis
+05/21/2021  04:55 PM             2,308 Overview.html
+05/21/2021  04:55 PM    <DIR>          TeX
+               1 File(s)          2,308 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Tools\HTMLGeneration
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Tools\LogAnalysis
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 httpd-analyse.c
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Tools\TeX
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 html2latex.sed
+05/21/2021  04:55 PM                 0 sub1.sed
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\Viola
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Installation.html
+05/21/2021  04:55 PM                 0 Status.html
+               2 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\VMClient
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Status.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\hypertext\WWW\WorkingNotes
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 Overview.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\usr
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          local
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\usr\local
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          lib
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\usr\local\lib
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM    <DIR>          WWW
+               0 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\usr\local\lib\WWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 remote.html
+               1 File(s)              0 bytes
+
+ Directory of C:\Users\debit\Documents\Project3\info.cern.ch\WWW
+
+05/21/2021  04:55 PM    <DIR>          .
+05/21/2021  04:55 PM    <DIR>          ..
+05/21/2021  04:55 PM                 0 disclaimer.html
+               1 File(s)              0 bytes
+
+     Total Files Listed:
+             136 File(s)         81,759 bytes
+             233 Dir(s)  172,644,646,912 bytes free
